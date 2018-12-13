@@ -1,8 +1,7 @@
 package org.launchcode.models;
 
-/**
- * Created by LaunchCode
- */
+import java.util.ArrayList;
+
 public class Job {
 
     private int id;
